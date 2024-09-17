@@ -1,0 +1,27 @@
+# Dependencias
+node_modules/
+
+# Archivos de entorno
+.env
+.env.production
+
+# Archivos de logs
+*.log
+
+# Archivos de compilación
+dist/
+build/
+
+# Archivos de sesiones
+bot_sessions/
+
+# Archivos de cobertura de pruebas
+coverage/
+
+# Archivos de configuración de editores
+.vscode/
+.idea/
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db.env

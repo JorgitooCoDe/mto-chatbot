@@ -1,0 +1,104 @@
+[
+  {
+    "ref": "aabcd983-614b-4888-a540-307a77355937",
+    "keyword": "80b62588230943f3fe64c560c7df1d6b",
+    "answer": "hola",
+    "options": {},
+    "from": "51951131338",
+    "refSerialize": "79e7fc16f7fb85373fd25a99390f44c0"
+  },
+  {
+    "ref": "ans_b2262af0-76eb-4653-b5d2-5ce501142150",
+    "keyword": "key_cc3a1d35-4c51-4118-ac65-ba90aca988aa",
+    "answer": "Bienvenido al soporte de *ManyToOne*\n\n🏠 Página oficial: https://mtocommunity.com\n🌐 Comunidad: https://discord.mtocommunity.com\n\n👉 ¿En qué puedo ayudarte hoy? Escribe *MENU* para ver las opciones disponibles.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "b9fc86d17af673bd50437b85f498f0d0",
+    "from": "51951131338"
+  },
+  {
+    "ref": "33b7b26d-02e1-4769-a614-6c85ce66421b",
+    "keyword": "b9fc86d17af673bd50437b85f498f0d0",
+    "answer": "MENU",
+    "options": {},
+    "from": "51951131338",
+    "refSerialize": "ae0b734983c678f7cfe68cb0613efa3a"
+  },
+  {
+    "ref": "ans_d61744a5-12a6-44f5-a3d2-f59cff505293",
+    "keyword": "key_f8965649-8fb2-4ffb-884a-fdf189c6815c",
+    "answer": "👉 Selecciona una opción escribiendo el número:\n\n1. 🌐 Quiero saber más sobre la comunidad\n2. 🛠️ Tengo problemas para verificarme\n3. 🤖 Consultas a la IA\n4. 🙋‍♂️ Quiero hablar con un representante.\n0. 🚪 Salir",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "bc199f780c1d9f408c61170f8038060f",
+    "from": "51951131338"
+  },
+  {
+    "ref": "c06c060f-fb20-473b-a6fe-c1ec9a81f435",
+    "keyword": "bc199f780c1d9f408c61170f8038060f",
+    "answer": "3",
+    "options": {},
+    "from": "51951131338",
+    "refSerialize": "7af65864494b12f0f7ef00589f4d3979"
+  },
+  {
+    "ref": "ans_7058584d-14de-4549-a88c-57d7288ec32b",
+    "keyword": "key_70ddf665-d433-43c2-aaa9-2ea52947f600",
+    "answer": "Hola, ¿qué consulta tienes?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b5fae8132e671fa0b348f9bbc0d0cd28",
+    "from": "51951131338"
+  },
+  {
+    "ref": "7b40f4f0-2ccf-46d9-8042-d225264a3200",
+    "keyword": "b5fae8132e671fa0b348f9bbc0d0cd28",
+    "answer": "que hago aca?",
+    "options": {},
+    "from": "51951131338",
+    "refSerialize": "68d76c32bd903d4653c1f5354d06e0d3"
+  },
+  {
+    "ref": "15f1696f-605b-493e-b13d-d80e1f77a2a5",
+    "keyword": null,
+    "answer": "¡Bienvenido/a a MTO Community! Aquí podrás participar en equipos especializados como DevTeam, NetTeam, OsTeam, SecurityTeam e IoTTeam para aprender, colaborar y crecer en áreas como desarrollo web, redes, sistemas operativos, ciberseguridad y robótica. También organizamos eventos para seguir aprendiendo y conectando. Si quieres unirte, solo necesitas crear una cuenta en Discord y unirte a nuestro servidor. ¡Te esperamos!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "51951131338",
+    "refSerialize": "fb301dc92c736ac5a10495109a95cf81"
+  }
+]
