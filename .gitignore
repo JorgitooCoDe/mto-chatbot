@@ -12,6 +12,8 @@ node_modules/
 dist/
 build/
 
+db.json
+
 # Archivos de sesiones
 bot_sessions/
 
