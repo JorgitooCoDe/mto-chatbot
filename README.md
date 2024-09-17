@@ -13,7 +13,6 @@
 
 - [Baileys](https://github.com/adiwajshing/Baileys): Librería de Node.js para interactuar con la API de WhatsApp Web.
 - **Node.js**: El entorno de ejecución para el servidor del bot.
-- **Venom Bot** (en progreso): Para mejorar la interacción del bot con WhatsApp.
 - **Inteligencia Artificial**: Para las respuestas personalizadas basadas en las preguntas abiertas de los usuarios.
 
 ## Requisitos previos
